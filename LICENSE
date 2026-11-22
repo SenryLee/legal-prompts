@@ -1,21 +1,29 @@
-MIT License
+法律工作提示词合集（Legal Prompts）使用与授权协议
 
-Copyright (c) 2024 SenryLee
+Copyright (c) 2024-2026 SenryLee (https://github.com/SenryLee/legal-prompts)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+本项目采用「知识共享 署名-非商业性使用-相同方式共享 4.0 国际许可协议」（Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International，简称 CC BY-NC-SA 4.0）进行许可，同时适用以下商业授权补充条款：
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+一、允许的使用范围（个人非商业用途）
+1. 允许个人用户免费下载、复制、学习并在个人日常法律研究与非商业场景中使用本仓库中的提示词内容。
+2. 允许在非商业前提下，结合具体业务或案情对提示词进行适当修改与适配。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+二、必须遵守的条件（署名与相同方式共享）
+1. 无论以何种形式使用、引用、转载或基于本项目进行二次创作并公开分享，均必须在显著位置清晰注明原始出处：
+   - 作者：SenryLee
+   - 项目地址：https://github.com/SenryLee/legal-prompts
+2. 若基于本项目进行修改、改编并公开发布，必须继续采用相同的 CC BY-NC-SA 4.0 许可协议进行分享，不得附加限制他人权利的额外条款。
+
+三、禁止未经授权的商业用途（商用须先联系授权）
+未经作者事先书面授权，任何组织、机构或个人不得将本项目全部或部分内容用于任何直接或间接的商业用途，包括但不限于：
+1. 集成至付费 AI 产品、SaaS 平台、智能体（Agent）、小程序、App 或企业内部规模化商用系统；
+2. 用于付费课程、付费培训、付费知识星球/社群资料包、付费专栏或商业出版物；
+3. 将本仓库提示词重新打包、洗稿换壳后进行售卖、引流变现或作为商业增值服务交付给客户。
+
+如需商业授权、企业定制部署或业务合作，请通过 GitHub 主页或仓库 Issues 联系作者获取书面授权：
+- GitHub 主页：https://github.com/SenryLee
+- 商业授权联系入口：https://github.com/SenryLee/legal-prompts/issues
+
+四、协议全文参考
+CC BY-NC-SA 4.0 完整法律文本详见：
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-hans
