@@ -200,4 +200,4 @@ flowchart LR
 本项目采用 **[CC BY-NC-SA 4.0（署名-非商业性使用-相同方式共享 4.0 国际）](./LICENSE)** 协议许可：
 
 - **✅ 个人免费使用（必须署名）**：允许个人免费下载、学习及非商业场景下使用与微调；任何形式的引用、转载或二次公开分享，均须显著注明作者 **SenryLee** 及出处 `https://github.com/SenryLee/legal-prompts`。
-- **💼 商业用途须先授权**：未经作者事先书面授权，禁止用于任何直接或间接商业用途（包括集成至付费 AI 产品/SaaS/智能体、付费课程与培训、付费社群资料包、打包售卖或企业内部规模化商用部署）。如需商业授权或合作，请通过 [GitHub Issues](https://github.com/SenryLee/legal-prompts/issues) 或作者主页 [SenryLee](https://github.com/SenryLee) 联系。
+- **💼 商业用途须先授权**：未经作者事先书面授权，禁止用于任何直接或间接商业用途（包括集成至付费 AI 产品/SaaS/智能体、付费课程与培训、付费社群资料包、打包售卖或企业内部规模化商用部署）。如需商业授权或合作，请发送邮件至 **fachuiai@163.com**，或通过 [GitHub Issues](https://github.com/SenryLee/legal-prompts/issues) 联系作者。
